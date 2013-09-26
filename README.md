@@ -1,7 +1,7 @@
-tServer
+tFramework
 =======
 
-A toy python http server
+A toy python web-framework 
 
 Learning pythonpaste tutorial, anandology tutorial and webpy
 
